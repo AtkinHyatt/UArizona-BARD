@@ -1,0 +1,11 @@
+Useful websites
+
+ - Acquisition functions in Bayesian Optimization:
+      https://ekamperi.github.io/machine%20learning/2021/06/11/acquisition-functions.html
+
+ - An Introduction to Gaussian Processes:
+      https://ekamperi.github.io/mathematics/2021/03/30/gaussian-process-regression.html
+
+ - MATLAB help page for 'bayesopt' function:
+      https://www.mathworks.com/help/stats/bayesopt.html
+      
